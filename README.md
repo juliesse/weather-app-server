@@ -2,7 +2,7 @@
 
 Installation Steps:
 
-create .env file based on .env.example
+Create .env file based on .env.example
 
 Run the following commands:
 
