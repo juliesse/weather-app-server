@@ -1,14 +1,21 @@
 # weather-app-server
 
 Installation Steps:
+
 create .env file based on .env.example
 
 Run the following commands:
+
 composer update
+
 php artisan key:generate
+
 php artisan jwt:secret
+
 php artisan cache:clear
+
 php artisan config:clear
+
 php artisan serve
 
 Clone the client side of the app in this link: https://github.com/juliesse/weather-app-client
